@@ -134,8 +134,9 @@ expense-tracker/
    - Click "Update Expense" to save changes
 
 ## Screenshots
-
-*Screenshots will be added here*
+![image](https://github.com/user-attachments/assets/9d3ebadc-7fd4-49e2-a6fa-b262a2068a81)
+![image](https://github.com/user-attachments/assets/de64ae50-7c93-4eec-bef2-e1e47436b479)
+![image](https://github.com/user-attachments/assets/6aef7b43-3047-4caf-85d0-e53299855600)
 
 ## Author
 
